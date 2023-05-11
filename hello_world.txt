@@ -1,1 +1,2 @@
 Hello World! HALA MADRID!
+Testing VS Code's commit feature.
